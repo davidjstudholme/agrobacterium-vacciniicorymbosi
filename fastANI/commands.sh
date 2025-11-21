@@ -1,0 +1,34 @@
+### Download NCBI's datasets utility:
+curl -o datasets 'https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/v2/linux-amd64/datasets'
+chmod u+x datasets
+
+### Use NCBI's datasets utility to download the genome sequences, unzip them and make symlinks in curren directory:
+./datasets download genome taxon "Agrobacterium"  --include genome --filename agrobacterium_genome_assemblies.zip
+
+./datasets download genome taxon "Agrobacterium"  --include genome --filename agrobacterium_type-strains_genome_assemblies.zip --from-type
+
+
+./datasets download genome taxon "Rhizobium"  --include genome --filename rhizobium_genome_assemblies.zip
+
+./datasets download genome taxon "Rhizobium"  --include genome --filename rhizobium_type-strains_genome_assemblies.zip --from-type
+
+unzip agrobacterium_genome_assemblies.zip
+
+unzip rhizobium_genome_assemblies.zip
+
+ln -s ncbi_dataset/data/GCA_*/GCA_*.fna .
+
+ls -1 *.fna > ref_list.txt
+ls -1 *scaff*.fna > query_list.txt
+
+
+fastANI --ql query_list.txt --rl ref_list.txt -o serbian-versus-type-strains.fastANI.out -t 6 --visualize --matrix
+
+fastANI --ql query_list.txt --rl ref_list.txt -o serbian-versus-all-strains.fastANI.out -t 6 --visualize --matrix
+
+
+
+
+### Make symlinks to the genome sequence files such that symlinks have informative names and appropriate extensions for input to PhaME:
+perl rename_files.pl genomes.txt
+

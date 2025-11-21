@@ -1,0 +1,4 @@
+B6.scaffolds.fasta.supercontigs.fna
+DA1.scaffolds.fasta.supercontigs.fna
+DAN6.scaffolds.fasta.supercontigs.fna
+NCPPB4602_scaffolds.fasta.supercontigs.fna

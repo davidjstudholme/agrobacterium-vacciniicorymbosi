@@ -1,0 +1,1 @@
+/data/djs217/scripts/bacterial-genomes-solexa/split_velvet_supercontigs_into_contigs.pl

@@ -1,0 +1,23 @@
+Assembly	GCF_040427045.1_ASM4042704v1_genomic
+# contigs (>= 0 bp)	34
+# contigs (>= 1000 bp)	30
+# contigs (>= 5000 bp)	27
+# contigs (>= 10000 bp)	25
+# contigs (>= 25000 bp)	22
+# contigs (>= 50000 bp)	18
+Total length (>= 0 bp)	4963342
+Total length (>= 1000 bp)	4960590
+Total length (>= 5000 bp)	4956759
+Total length (>= 10000 bp)	4942255
+Total length (>= 25000 bp)	4894557
+Total length (>= 50000 bp)	4719127
+# contigs	34
+Largest contig	630909
+Total length	4963342
+GC (%)	57.30
+N50	323037
+N90	126690
+auN	327822.8
+L50	6
+L90	16
+# N's per 100 kbp	0.00

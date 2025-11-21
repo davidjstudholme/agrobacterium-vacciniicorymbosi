@@ -1,0 +1,101 @@
+GCA_000949895.1_ASM94989v1_genomic.fna 	A. arsenijevicii KFB 330
+GCA_001422245.1_Leaf262_genomic.fna	R. sp. Leaf262
+GCA_000092025.1_ASM9202v1_genomic.fna	A. tumefaciens str. C58
+#GCA_000092045.1_ASM9204v1_genomic.fna	R. etli CFN 42
+#GCA_000298315.2_ASM29831v2_genomic.fna	R. grahamii CCGE 502
+#GCA_000330885.1_ASM33088v1_genomic.fna	R. tropici CIAT 899
+#GCA_000359745.1_Rhizobium_sp._genomic.fna	R. freirei PRF 81
+#GCA_000379605.1_ASM37960v1_genomic.fna	R. giardinii bv. giardinii H152
+#GCA_000419765.1_ASM41976v1_genomic.fna	R. mongolense USDA 1844
+#GCA_000426285.1_ASM42628v1_genomic.fna	R. leucaenae USDA 9039 
+#GCA_000577275.2_LPU83_genomic.fna	R. sp. LPU83
+GCA_000696095.1_ASM69609v1_genomic.fna	A. rhizogenes NBRC 13257
+#GCA_000769405.2_CC275e2020_genomic.fna	R. brockwellii CC275e
+#GCA_000816845.1_ASM81684v1_genomic.fna	R. gallicum bv. gallicum R602
+GCA_000949865.1_ASM94986v1_genomic.fna	R. nepotum 39-7
+#GCA_001187535.1_ASM118753v1_genomic.fna	R. ecuadorense CNPSO 671
+GCA_001541305.1_ASM154130v1_genomic.fna	A. radiobacter  NCPPB 3001
+GCA_001541345.2_ASM154134v2_genomic.fna	A. vitis  NCPPB 3554
+#GCA_001542405.1_ASM154240v1_genomic.fna	R. altiplani BR 10423
+#GCA_001939045.1_ASM193904v1_genomic.fna	R. oryziradicis N19  
+GCA_002008225.1_ASM200822v1_genomic.fna	A. salinitolerans YIC 5082 
+GCA_002008275.1_ASM200827v1_genomic.fna	A. pusense NRCPB10  
+#GCA_002204185.1_ASM220418v1_genomic.fna	R. esperanzae CNPSo 668  
+#GCA_002531935.1_ASM253193v1_genomic.fna	R. chutanense C5 
+GCA_002896715.1_ASM289671v1_genomic.fna	A. bohemicum R90 
+#GCA_002914525.1_ASM291452v1_genomic.fna	R. hidalgonense FH14
+GCA_002915175.1_ASM291517v1_genomic.fna	A. rosae NCPPB 1650
+#GCA_003205195.1_ASM320519v1_genomic.fna	R. wuzhouense W44 
+#GCA_003240565.2_ASM324056v2_genomic.fna	R. tumorigenes 1078
+#GCA_003240585.1_ASM324058v1_genomic.fna	R. tubonense CCBAU 85046
+#GCA_003425685.1_ASM342568v1_genomic.fna	R. terrae NAU-18 
+#GCA_003627755.1_ASM362775v1_genomic.fna	R. jaguaris CCGE525
+#GCA_003938655.1_ASM393865v1_genomic.fna	R. pisi DSM 30132 
+#GCA_003939025.1_ASM393902v1_genomic.fna	R. sophoriradicis CCBAU 03470
+#GCA_003985125.1_ASM398512v1_genomic.fna	R. phaseoli ATCC 14482 
+#GCA_003985145.1_ASM398514v1_genomic.fna	R. anhuiense CCBAU 23252
+#GCA_003985155.1_ASM398515v1_genomic.fna	R. vallis CCBAU 65647 
+#GCA_004306515.1_ASM430651v1_genomic.fna	R. beringeri SM51 
+GCA_004310285.1_ASM431028v1_genomic.fna	A. cavarae RZME10 
+#GCA_004358025.1_ASM435802v1_genomic.fna	R. deserti SPY-1 
+#GCA_004912135.1_ASM491213v1_genomic.fna	R. rosettiformans W3 1
+#GCA_004912145.1_ASM491214v1_genomic.fna	R. rhizophilum 7209-2 
+GCA_005145045.1_ASM514504v1_genomic.fna	A. larrymoorei CFBP5473 
+#GCA_005862305.2_ASM586230v2_genomic.fna	R. indicum JKLM 12A2
+#GCA_006335145.1_ASM633514v1_genomic.fna	R. smilacinae PTYR-5 
+#GCA_006443685.1_ASM644368v1_genomic.fna	R. glycinendophyticum CL12
+#GCA_007000325.2_ASM700032v2_genomic.fna	R. rhododendri rho-6.2
+#GCA_007002985.1_ASM700298v1_genomic.fna	R. rhizogenes LMG150  
+#GCA_009176305.1_ASM917630v1_genomic.fna	R. dioscoreae DNA 
+GCA_010669145.1_ASM1066914v1_genomic.fna	R. oryzihabitans M15 
+#GCA_011045155.1_ASM1104515v1_genomic.fna	R. daejeonense CCBAU10050 
+#GCA_011046895.1_ASM1104689v1_genomic.fna	R. rhizoryzae DSM 29514  
+#GCA_012349115.1_ASM1234911v1_genomic.fna	R. ruizarguesonis UPM1133
+#GCA_012927355.1_ASM1292735v1_genomic.fna	R. terricola S-51
+#GCA_013087515.1_ASM1308751v1_genomic.fna	R. sophorae CCBAU 03386  
+#GCA_013087625.1_ASM1308762v1_genomic.fna	R. changzhiense WYCCWR 11279 
+#GCA_013378445.1_ASM1337844v1_genomic.fna	R. rhizolycopersici DBTS2  
+#GCA_014192445.1_ASM1419244v1_genomic.fna	R. laguerreae CECT 8280 
+#GCA_014196235.1_ASM1419623v1_genomic.fna	R. fabae DSM 19331 
+#GCA_014196505.1_ASM1419650v1_genomic.fna	R. metallidurans DSM 26575 
+GCA_014196515.1_ASM1419651v1_genomic.fna	R. skierniewicense DSM 26438 
+#GCA_014196605.1_ASM1419660v1_genomic.fna	R. rhizoryzae DSM 29514 
+#GCA_014201355.1_ASM1420135v1_genomic.fna	R. wenxiniae DSM 100734  
+#GCA_014202175.1_ASM1420217v1_genomic.fna	R. rosettiformans DSM 26376    
+#GCA_014727215.1_ASM1472721v1_genomic.fna	R. leucaenae USDA 9039 
+#GCA_014873945.1_ASM1487394v1_genomic.fna	R. viscosum DSM 7307
+GCA_015704895.1_ASM1570489v1_genomic.fna	A. leguminum MOPV5 
+#GCA_016722925.1_ASM1672292v1_genomic.fna	R. setariae KVB221 
+GCA_017313405.1_ASM1731340v1_genomic.fna	A. burrii Rnr 
+#GCA_017352135.1_ASM1735213v1_genomic.fna	R. lentis BLR27
+#GCA_017357225.1_ASM1735722v1_genomic.fna	R. binae BLR195
+#GCA_017357245.1_ASM1735724v1_genomic.fna	R. bangladeshense BLR175
+GCA_017873055.1_ASM1787305v1_genomic.fna	A. rubi DSM 6772 
+#GCA_017873095.1_ASM1787309v1_genomic.fna	R. halophytocola DSM 21600 
+#GCA_017873135.1_ASM1787313v1_genomic.fna	R. herbae DSM 26427 
+#GCA_019430945.1_ASM1943094v1_genomic.fna	R. populisoli XQZ8 
+#GCA_019684215.1_ASM1968421v1_genomic.fna	R. bangladeshense BLR175 
+#GCA_019684715.1_ASM1968471v1_genomic.fna	R. lentis BLR27
+#GCA_019793435.1_ASM1979343v1_genomic.fna	R. redzepovicii 18T 
+#GCA_019793465.1_ASM1979346v1_genomic.fna	R. croatiense 13T
+#GCA_021168455.1_ASM2116845v1_genomic.fna	R. quercicola DKSPLA3 
+GCA_021310995.1_ASM2131099v1_genomic.fna	A. vaccinii B7.6 
+#GCA_021555155.1_ASM2155515v1_genomic.fna	R. alarense TRM95111 
+#GCA_025941625.1_ASM2594162v1_genomic.fna	R. acaciae 1AS11 
+GCA_030036535.1_ASM3003653v1_genomic.fna	A. cucumeris O132
+#GCA_030160595.1_ASM3016059v1_genomic.fna	R. indigoferae NBRC 100398 
+#GCA_030272695.1_ASM3027269v1_genomic.fna	R. calliandrae CCGE524 
+#GCA_030272705.1_ASM3027270v1_genomic.fna	R. mayense CCGE526
+GCA_030551875.1_ASM3055187v1_genomic.fna	R. alvei TNR-22 
+GCA_033842645.1_ASM3384264v1_genomic.fna	R. leguminosarum ATCC 10004  
+#GCA_900094545.1_IMG-taxon_2617270742_annotated_assembly_genomic.fna	R. miluonense HAMBI 2971
+#GCA_900094555.1_IMG-taxon_2615840609_annotated_assembly_genomic.fna	R. hainanense CCBAU 57015
+#GCA_900094565.1_IMG-taxon_2615840626_annotated_assembly_genomic.fna	R. lusitanum P1-7
+#GCA_900094585.1_IMG-taxon_2615840698_annotated_assembly_genomic.fna	R. multihospitium HAMBI 2975
+#GCA_900094625.1_IMG-taxon_2615840624_annotated_assembly_genomic.fna	R. sp. HBR26
+#GCA_900099775.1_IMG-taxon_2596583570_annotated_assembly_genomic.fna	R. loessense CGMCC 1.3401
+#GCA_900108425.1_Tibet_genomic.fna	R. tibeticum isolate CCBAU85039
+#GCA_900110205.1_IMG-taxon_2671180023_annotated_assembly_genomic.fna	R. tibeticum CGMCC 1.7071
+#GCA_900220975.1_IMG-taxon_2740891857_annotated_assembly_genomic.fna	R. subbaraonis JC85
+
+

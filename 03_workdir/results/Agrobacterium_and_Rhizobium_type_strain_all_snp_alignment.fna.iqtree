@@ -1,0 +1,191 @@
+IQ-TREE 2.2.6 COVID-edition built Dec  8 2023
+
+Input file name: /data/djs217/PROJECTS/23_Agrobacterium_serbia/03_workdir/results/Agrobacterium_and_Rhizobium_type_strain_all_snp_alignment.fna
+Type of analysis: ModelFindernon-parametric bootstrap (1000 replicates)
+Random seed number: 438751
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 21 sequences with 80395 nucleotide sites
+Number of constant sites: 7829 (= 9.73817% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 7829 (= 9.73817% of all sites)
+Number of parsimony informative sites: 51667
+Number of distinct site patterns: 40648
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TIM3+F+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TIM3+F+G4       -1020893.394 2041878.788 -   0.0182 2041878.842 -   0.0182 2042306.345 +    0.996
+GTR+F+G4        -1020887.652 2041871.304 +    0.766 2041871.363 +    0.767 2042317.450 -  0.00386
+GTR+F+I+G4      -1020887.921 2041873.842 +    0.215 2041873.903 +    0.215 2042329.283 - 1.04e-05
+TPM3u+F+G4      -1020918.281 2041926.562 - 7.68e-13 2041926.614 - 7.71e-13 2042344.824 - 4.39e-09
+TVM+F+G4        -1020913.517 2041921.034 - 1.22e-11 2041921.090 - 1.22e-11 2042357.885 -  6.4e-12
+TN+F+G4         -1021014.361 2042118.722 - 1.44e-54 2042118.774 - 1.45e-54 2042536.984 - 8.23e-51
+TIM2+F+G4       -1021009.329 2042110.658 - 8.12e-53 2042110.712 - 8.14e-53 2042538.215 - 4.45e-51
+TIM+F+G4        -1021009.887 2042111.774 - 4.65e-53 2042111.828 - 4.66e-53 2042539.331 - 2.55e-51
+HKY+F+G4        -1021034.633 2042157.266 - 6.15e-63 2042157.315 - 6.18e-63 2042566.233 - 3.67e-57
+K3Pu+F+G4       -1021030.063 2042150.126 - 2.18e-61 2042150.178 - 2.19e-61 2042568.388 - 1.25e-57
+TPM2u+F+G4      -1021030.354 2042150.708 - 1.63e-61 2042150.760 - 1.64e-61 2042568.970 - 9.33e-58
+SYM+G4          -1032827.805 2065745.610 -        0 2065745.662 -        0 2066163.872 -        0
+TVMe+G4         -1033138.500 2066365.000 -        0 2066365.049 -        0 2066773.967 -        0
+TIM3e+G4        -1035088.431 2070262.862 -        0 2070262.909 -        0 2070662.534 -        0
+TPM3+G4         -1035332.349 2070748.698 -        0 2070748.743 -        0 2071139.076 -        0
+TIM2e+G4        -1036902.326 2073890.652 -        0 2073890.699 -        0 2074290.324 -        0
+TPM2+G4         -1037323.918 2074731.836 -        0 2074731.881 -        0 2075122.214 -        0
+TIMe+G4         -1037320.606 2074727.212 -        0 2074727.259 -        0 2075126.884 -        0
+K3P+G4          -1037663.318 2075410.636 -        0 2075410.681 -        0 2075801.014 -        0
+GTR+F+I         -1038193.693 2076483.386 -        0 2076483.445 -        0 2076929.532 -        0
+TNe+G4          -1038910.482 2077904.964 -        0 2077905.009 -        0 2078295.342 -        0
+K2P+G4          -1039253.833 2078589.666 -        0 2078589.709 -        0 2078970.749 -        0
+GTR+F           -1042436.453 2084966.906 -        0 2084966.962 -        0 2085403.757 -        0
+F81+F+G4        -1072117.014 2144320.028 -        0 2144320.075 -        0 2144719.700 -        0
+JC+G4           -1077573.268 2155226.536 -        0 2155226.577 -        0 2155598.324 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TIM3+F+G4
+
+Rate parameter R:
+
+  A-C: 1.1697
+  A-G: 5.4568
+  A-T: 1.0000
+  C-G: 1.1697
+  C-T: 5.1628
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.1717
+  pi(C) = 0.3206
+  pi(G) = 0.3523
+  pi(T) = 0.1554
+
+Rate matrix Q:
+
+  A    -1.417    0.2167     1.111   0.08978
+  C    0.1161   -0.8177    0.2381    0.4635
+  G    0.5415    0.2167    -0.848   0.08978
+  T   0.09923    0.9567    0.2036    -1.259
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 1.44
+
+ Category  Relative_rate  Proportion
+  1         0.2159         0.25
+  2         0.5782         0.25
+  3         1.047          0.25
+  4         2.159          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -1020893.4725
+Branches with support >0.0000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----A_fabacearum_P4
+|
++---A__arsenijevicii_KFB_330_contig
+|
+|                                         +---------A__bohemicum_R90__contig
+|                                      +--| (100)
+|                                      |  +------A__rosae_NCPPB_1650_contig
+|                                   +--| (100)
+|                                   |  +--------------R__skierniewicense_DSM_26438__contig
+|                                +--| (100)
+|                                |  |  +------A__rubi_DSM_6772__contig
+|                                |  +--| (100)
+|                                |     +-------A__vaccinii_B7_6__contig
+|                        +-------| (100)
+|                        |       |  +------B6_contig
+|                        |       +--| (100)
+|                        |          +------R__sp__Leaf262_contig
+|                 +------| (100)
+|                 |      |   +---------------A__cavarae_RZME10__contig
+|                 |      +---| (100)
+|                 |          +----------A__larrymoorei_CFBP5473__contig
+|           +-----| (100)
+|           |     +-----------------------------------------------R__leguminosarum_ATCC_10004__contig
+|        +--| (95)
+|        |  |     +----A__leguminum_MOPV5__contig
+|        |  |  +--| (100)
+|        |  |  |  |  +--------A__pusense_NRCPB10__contig
+|        |  |  |  +--| (100)
+|        |  |  |     +-----A__salinitolerans_YIC_5082__contig
+|        |  +--| (98)
+|        |     +-----A__radiobacter_NCPPB_3001_contig
+|     +--| (100)
+|     |  |     +-----A__burrii_Rnr__contig
+|     |  |  +--| (100)
+|     |  |  |  +----A__cucumeris_O132_contig
+|     |  +--| (100)
+|     |     +-------A__tumefaciens_str__C58_contig
+|  +--| (100)
+|  |  +-----R__oryzihabitans_M15__contig
++--| (70)
+   +-----R__nepotum_39_7_contig
+
+
+Consensus tree in newick format: 
+
+(A_fabacearum_P4:0.1032635738,A__arsenijevicii_KFB_330_contig:0.0787899129,((((((((((A__bohemicum_R90__contig:0.1584982957,A__rosae_NCPPB_1650_contig:0.1152291270)100:0.0574787511,R__skierniewicense_DSM_26438__contig:0.2500383256)100:0.0244182299,(A__rubi_DSM_6772__contig:0.1188311324,A__vaccinii_B7_6__contig:0.1384629518)100:0.0458871950)100:0.0353887953,(B6_contig:0.1171333833,R__sp__Leaf262_contig:0.1182496995)100:0.0417609343)100:0.1409084976,(A__cavarae_RZME10__contig:0.2677135246,A__larrymoorei_CFBP5473__contig:0.1869986698)100:0.0706293722)100:0.1200825530,R__leguminosarum_ATCC_10004__contig:0.7644033746)100:0.1016322377,((A__leguminum_MOPV5__contig:0.0844136902,(A__pusense_NRCPB10__contig:0.1503806371,A__salinitolerans_YIC_5082__contig:0.1007298964)100:0.0292789458)100:0.0237131883,A__radiobacter_NCPPB_3001_contig:0.1005150868)98:0.0165999677)95:0.0104979645,((A__burrii_Rnr__contig:0.1048110999,A__cucumeris_O132_contig:0.0893371755)100:0.0343489026,A__tumefaciens_str__C58_contig:0.1276634636)100:0.0171750795)100:0.0208526874,R__oryzihabitans_M15__contig:0.1014385980)100:0.0334617862,R__nepotum_39_7_contig:0.1079872697)70:0.0173011201);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /data/djs217/PROJECTS/23_Agrobacterium_serbia/03_workdir/results/Agrobacterium_and_Rhizobium_type_strain_all_snp_alignment.fna.treefile -m "TIM3{1.16967,5.45679,5.16278}+F{0.171715,0.320645,0.35228,0.15536}+G4{1.43989}" --length 80395
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /data/djs217/PROJECTS/23_Agrobacterium_serbia/03_workdir/results/Agrobacterium_and_Rhizobium_type_strain_all_snp_alignment.fna --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /data/djs217/PROJECTS/23_Agrobacterium_serbia/03_workdir/results/Agrobacterium_and_Rhizobium_type_strain_all_snp_alignment.fna --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Jun 24 22:27:31 2024
+Total CPU time used: 6.845589 seconds (0h:0m:6s)
+Total wall-clock time used: 7.858868122 seconds (0h:0m:7s)
+
